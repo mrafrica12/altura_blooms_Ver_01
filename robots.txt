@@ -1,3 +1,0 @@
-# Prelaunch only. Crawl directives are not access control.
-User-agent: *
-Disallow: /
